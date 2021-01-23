@@ -1,9 +1,14 @@
 <?php
     require "functions.php";
-
     $task=get_user_by_id('onlyphp',$_GET['id']);
-?>
 
+    $status=[
+    'success'=>'Онлайн',
+    'warning'=>'Отошел',
+    'danger'=>'Не беспокоить'
+    ];
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +37,7 @@
                     <a class="nav-link" href="page_login.php">Войти</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Выйти</a>
+                    <a class="nav-link" href="logout.php">Выйти</a>
                 </li>
             </ul>
         </div>
@@ -58,10 +63,16 @@
                                         <!-- status -->
                                         <div class="form-group">
                                             <label class="form-label" for="example-select">Выберите статус</label>
-                                            <select class="form-control" id="example-select" name="status">
-                                                <option>Онлайн</option>
-                                                <option>Отошел</option>
-                                                <option>Не беспокоить</option>
+                                            <select class="form-control" id="example-select" name="status" >
+                                                <?php
+                                                    foreach ($status as $key=>$value){
+                                                        if($key==$task['status']){
+                                                            echo '<option  selected="selected">'.$value.'</option>';
+                                                            } else{
+                                                            echo '<option >'.$value.'</option>';
+                                                        }
+                                                    }
+                                                 ?>
                                             </select>
                                         </div>
                                     </div>

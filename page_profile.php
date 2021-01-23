@@ -58,13 +58,13 @@
                                         <small class="text-muted mb-0"><?php echo $task['job_place'];?></small>
                                     </h5>
                                     <div class="mt-4 text-center demo">
-                                        <a href="javascript:void(0);" class="fs-xl" style="color:#C13584">
+                                        <a href="https://www.instagram.com/<?php echo $task['instagram'];?>" target="_blank" class="fs-xl" style="color:#C13584">
                                             <i class="fab fa-instagram"></i>
                                         </a>
-                                        <a href="javascript:void(0);" class="fs-xl" style="color:#4680C2">
+                                        <a href="https://vk.com/<?php echo $task['vk_link'];?>" target="_blank" class="fs-xl" style="color:#4680C2">
                                             <i class="fab fa-vk"></i>
                                         </a>
-                                        <a href="javascript:void(0);" class="fs-xl" style="color:#0088cc">
+                                        <a href="https://t.me/<?php echo $task['telegram'];?>" target="_blank" class="fs-xl" style="color:#0088cc">
                                             <i class="fab fa-telegram"></i>
                                         </a>
                                     </div>
