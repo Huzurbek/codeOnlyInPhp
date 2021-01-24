@@ -85,6 +85,14 @@
             return true;
         }
     }
+//Checking existing of Image:
+    function hasImage($image){
+        if(empty($image)){
+            echo 'noneAvatar.png';
+        }else{
+            echo $image;
+        }
+    }
 //Upload Image:
     function uploadImage($image){
         $extension=pathinfo($image['name'],PATHINFO_EXTENSION);

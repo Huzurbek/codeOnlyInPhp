@@ -81,7 +81,7 @@
                             <div class="d-flex flex-row align-items-center">
 
                                 <span class="status status-<?php echo $person['status'];?> mr-3">
-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/<?php echo $person['image'];?>'); background-size: cover;"></span>
+                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/<?php hasImage($person['image']);?>'); background-size: cover;"></span>
                                 </span>
 
                                 <div class="info-card-text flex-1">

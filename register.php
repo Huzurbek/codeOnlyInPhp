@@ -9,7 +9,7 @@
         'job_place'=>'Registered by Email',
         'phone_number'=>'Registered by Email',
         'address'=>'Registered by Email',
-        'image'=>'Registered by Email',
+        'image'=>'',
         'status'=>'Registered by Email',
         'vk_link'=>'Registered by Email',
         'telegram'=>'Registered by Email',
