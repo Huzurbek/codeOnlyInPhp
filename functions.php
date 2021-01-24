@@ -55,11 +55,17 @@
     }
 //Delete User:
     function deleteUser($table,$id){
+        $image=get_user_by_id($table,$id);
+        $delImage=$image['image'];
         $pdo=new PDO("mysql:host=localhost; dbname=test","root","root");
         $sql="DELETE FROM $table WHERE id=:id";
         $statement=$pdo->prepare($sql);
         $statement->bindParam(':id',$id);
         $statement->execute();
+        if(!empty($delImage)){
+            return  unlink("img/demo/avatars/$delImage");
+        }
+
     }
 //Login:
     function login($email,$password){

@@ -22,42 +22,8 @@
     <list default="true" id="1293a161-6981-4e3c-b239-2f044ea9ad4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/6009077d3b4ac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600907b5aafcb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600907c4af2d8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/6009081946037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/6009095f4fab8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090ab051e0c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090b770d254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090be9bde9a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090cb2b9cc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090d007178b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090d4b2a4df.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090d78acecd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090de0d5769.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60090e164c016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60091dcee2c3d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60092c6d363bb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60092c7840aef.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60092c8c45c81.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60092cbaa74f1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60092cdabecbe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60096b36f1ce2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60096e7d8f1e5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60096ec0ab537.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60096f3704ca9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/60096fa6cf55c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600975b617e79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bb9f0e873e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bba0271b3b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bba16dfcc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bba54d1c23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bbbda726eb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bc939afb99.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bc9c214982.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600bcc1e6a407.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600d000a7ba90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demo/avatars/600d0062b5f3b.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +63,7 @@
       <workItem from="1611381038006" duration="3965000" />
       <workItem from="1611399037940" duration="8866000" />
       <workItem from="1611461467495" duration="2410000" />
-      <workItem from="1611464575983" duration="691000" />
+      <workItem from="1611464575983" duration="2821000" />
     </task>
     <servers />
   </component>

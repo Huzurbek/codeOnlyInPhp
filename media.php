@@ -55,7 +55,7 @@
                             </div>
                             <div class="panel-content">
                                 <div class="form-group">
-                                    <img src="img/demo/avatars/<?php echo $task['image'];?>" alt="" class="img-responsive" width="200">
+                                    <img src="img/demo/avatars/<?php hasImage($task['image']);?>" alt="" class="img-responsive" width="200">
                                 </div>
 
                                 <div class="form-group">
