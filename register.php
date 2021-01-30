@@ -10,7 +10,7 @@
         'phone_number'=>'Registered by Email',
         'address'=>'Registered by Email',
         'image'=>'',
-        'status'=>'Registered by Email',
+        'status'=>'success',
         'vk_link'=>'Registered by Email',
         'telegram'=>'Registered by Email',
         'instagram'=>'Registered by Email',
